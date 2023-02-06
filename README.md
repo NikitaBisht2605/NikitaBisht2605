@@ -2,7 +2,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NikitaBisht2605.NikitaBisht2605) [![Github](https://img.shields.io/github/followers/NikitaBisht2605?label=Follow&style=social)](https://github.com/NikitaBisht2605)
 
-## 🎓 I'm a 2nd year student at VIT Vellore pursuing BTech Computer Science with a Specialization in Internet of Things
+## 🎓 I'm a 3rd year student at VIT Vellore pursuing BTech Computer Science with a Specialization in Internet of Things
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about anything.
 - 📫 How to reach me: Instagram @thenikitabisht2605
